@@ -68,7 +68,7 @@ function Checkout() {
     };
 
     return (
-        <div className="bg-gray-100 min-h-screen">
+        <div className="bg-grey-200 min-h-screen">
             <div className="container mx-auto py-12">
                 <div className="bg-white shadow-lg rounded-lg overflow-hidden md:flex">
                     {/* Customer Information */}
